@@ -14,7 +14,7 @@
    [по инструкции](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
 6. Установи зависимости проекта в терминале командой `npm install` .
 7. Запусти режим разработки, выполнив команду `npm start`.
-8. Перейди в браузере по адресу [http://localhost:1234](http://localhost:1234).
+8. Перейди в браузере по адресу [)http://localhost:1234](http://localhost:1234.
    Эта страница будет автоматически перезагружаться после сохранения изменений в
    файлах проекта.
 
