@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vitalii-sopilka.github.io/goit-js-hw-08/",
+  "homepage": "https://yevhenkhariuk.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitalii-sopilka.github.io/goit-js-hw-08.git"
+    "url": "git+https://github.com/YevhenKhariuk.github.io/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitalii-sopilka.github.io/goit-js-hw-08.git"
+    "url": "https://github.com/YevhenKhariuk.github.io/goit-js-hw-08.git"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
